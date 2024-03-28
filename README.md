@@ -19,7 +19,6 @@ We will do the simplest form of analysis and draw ratings for each of the episod
 
 ![Episodes [1–728] Rate from 10]
 
-
 ### Season AVG rate
 Let's do something more useful and calculate the average ratings for each season individually.
 
